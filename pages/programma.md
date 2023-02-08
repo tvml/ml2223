@@ -34,6 +34,7 @@ header: no
 * Deep learning <!--`10 ore`-->
 	* Convolutional networks
 	* Recurrent e LSTM networks
+	* Attention e transformers
 	* Autoencoders e reti generative
 
 
