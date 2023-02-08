@@ -10,9 +10,9 @@ header: no
 
 
 
-1. [`mnist`{:.codelink}]({{ site.baseurl }}{%link codici/mlp_mnist_tf.ipynb %}) Riconoscimento caratteri (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2122/blob/master/codici/mlp_mnist_tf.ipynb)
+1. [`mnist`{:.codelink}]({{ site.baseurl }}{%link codici/mlp_mnist_tf.ipynb %}) Riconoscimento caratteri (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2223/blob/master/codici/mlp_mnist_tf.ipynb)
 
-1. [`Titanic`{:.codelink}]({{ site.baseurl }}{%link codici/titanic.ipynb %}) Sopravvissuti Titanic (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2122/blob/master/codici/titanic.ipynb)
+<!--1. [`Titanic`{:.codelink}]({{ site.baseurl }}{%link codici/titanic.ipynb %}) Sopravvissuti Titanic (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2122/blob/master/codici/titanic.ipynb)
 
 1. [`Loss`{:.codelink}]({{ site.baseurl }}{%link codici/loss.ipynb %}) Funzione loss e GD (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2122/blob/master/codici/loss.ipynb)
 
@@ -70,8 +70,6 @@ header: no
 
 1. [`Knn.`{:.codelink}]({{ site.baseurl }}{%link codici/knn.ipynb %}) Classificazione mediante k nearest neighbor (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2122/blob/master/codici/knn.ipynb)
 
-1. [`SVM custom kernel.`{:.codelink}]({{ site.baseurl }}{%link codici/svm_custom_kernel.ipynb %}) SVM con kernel custom (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2122/blob/master/codici/svm_custom_kernel.ipynb)
-
 1. [`Backprop.`{:.codelink}]({{ site.baseurl }}{%link codici/backprop.ipynb %}) Backpropagation in MLP a 3 layer (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2122/blob/master/codici/ensemble.ipynb)
 
-1. [`NN classifier.`{:.codelink}]({{ site.baseurl }}{%link codici/nn2d.ipynb %}) Rete neurale per classificazione binaria (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2122/blob/master/codici/nn2d.ipynb)
+1. [`NN classifier.`{:.codelink}]({{ site.baseurl }}{%link codici/nn2d.ipynb %}) Rete neurale per classificazione binaria (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2122/blob/master/codici/nn2d.ipynb)-->
