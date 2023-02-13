@@ -9,9 +9,11 @@ header: no
 
 ### Dove e quando
 
-Le lezioni del corso si svolgono presso la macroarea di Scienze, edificio Sogene:
+Le lezioni del corso si svolgono presso la macroarea di Scienze, edificio PP2:
 
-* da definire
+* Martedì h.11.30-13.15 aula 5
+* Giovedì h.14.00-15.45 aula 5
+* Venerdì h.14.00-15.45 aula 5
 
 Le lezioni avranno inizio _da definire_
 
