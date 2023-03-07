@@ -42,7 +42,9 @@ Testi di Machine Learning liberamente disponibili su Internet
 
 * S. Ruder. [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
 
-* P. Cunningham, B. Kathirgamanathan, S.J. Delany.[Feature Selection Tutorial with Python Examples](https://arxiv.org/abs/2106.06437)
+* P. Cunningham, B. Kathirgamanathan, S.J. Delany. [Feature Selection Tutorial with Python Examples](https://arxiv.org/abs/2106.06437)
+
+* J. Li, K. Cheng, S. Wang, F. Morstatter, R.P. Trevino, J. Tang, H. Liu. [Feature Selection: A Data Perspective](https://arxiv.org/abs/1601.07996)
 
 
 
