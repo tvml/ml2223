@@ -9,16 +9,17 @@ header: no
 
 ### Dove e quando
 
-Le lezioni del corso si svolgono presso la macroarea di Scienze, edificio PP2:
+Le lezioni del corso si svolgono presso la macroarea di Scienze a partire da lunedì 7/10/2024:
 
-* Martedì h.11.30-13.15 aula 5
-* Giovedì h.14.00-15.45 aula 5
-* Venerdì h.14.00-15.45 aula 5
+* il Lunedì dalle ore 14.00 alle 15.30 in aula 19
 
-Le lezioni avranno inizio martedì 7-3-2023
+* il Giovedì dalle ore 11.30 alle 13.00 in aula 5 PP2
 
-Il team Teams associato al corso, all'interno del quale sarà possibile tra l'altro assistere alle lezioni da remoto, è accessibile a questo [indirizzo](https://teams.microsoft.com/l/team/19%3a3ALSBcdIxqrpPZsP4HuiVRe9fPPohzda398EPeNB3XQ1%40thread.tacv2/conversations?groupId=8b890035-aac5-4a98-88ad-fe00e2a6d97d&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e)
+* il Venerdì dalle ore 11.30 alle 13.00 in aula 13
 
+#### Teams
+
+Il team Teams relativo al corso è accessibile [qui](https://teams.microsoft.com/l/team/19%3A5FYyoJIVmELhfxetFz-mH2ZrSCOa0sI6o8z0UrEj9Io1%40thread.tacv2/conversations?groupId=e362f212-9eb6-4e7b-9af3-902135c2c1cc&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e)
 
 #### Ricevimento
 
@@ -44,25 +45,24 @@ docente, la valutazione e la comparazione della loro efficacia e la scrittura di
 una relazione. A meno di eccezioni concordate con il docente, si richiede che il
 progetto sia realizzato per coppie di studenti.
 
-La prova di esame consiste nella illustrazione del lavoro svolto, facendo
+La prova di esame consiste nella illustrazione del lavoro fatto, facendo
 riferimento alla relazione scritta. E' inoltre previsto un colloquio orale, per
 ogni singolo studente, incentrato sui contenuti del corso.
 
 #### Progetto
 
-Il progetto prevede la scrittura, utilizzando il linguaggio Python, di un
-programma che richiami e integri tra loro funzionalità di Machine Learning
+Il progetto prevede la scrittura notebook Jupyter/Python che richiami e integri 
+tra loro funzionalità di Machine Learning
 offerte da librerie software ampiamente utilizzate nel settore.
 
 
 ### Materiale didattico
 
-Il testo di riferimento principale è il seguente:
+Il testo di riferimento è il seguente:
 `M. Bishop "Pattern Recognition and Machine Learning", Springer 2006`{:.alert}
 
-Nella sezione Bibliografia sono inoltre suggeriti altri testi sull'argomento liberamente disponibili in
+Saranno inoltre suggeriti altri testi sull'argomento liberamente disponibili in
 formato pdf sul web.
 
 Infine, sarà reso disponibile il materiale didattico preparato dal docente,
-comprendente copia dei lucidi utilizzati nel corso delle lezioni ed ulteriori
-note su argomenti specifici.
+comprendente copia dei lucidi utilizzati nel corso delle lezioni presso la macroarea di Scienze.

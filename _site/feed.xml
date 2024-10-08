@@ -1,102 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/ml2223/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="/ml2223/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="/ml2425/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/ml2425/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Machine learning</title>
 		<description>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</description>
-		<link>http://localhost:4000/ml2223/</link>
-		<atom:link href="http://localhost:4000/ml2223/feed.xml" rel="self" type="application/rss+xml" />
-		
-			<item>
-				<title>Lezione 12</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Thu, 21 Apr 2022 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/EeaYqrEM0sxLnxw2OKNESsgBXveb-E_gWrLPnWC6yFv5rg?e=PBduTv&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 11</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Thu, 14 Apr 2022 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/EXjUM00FicNGmSJ-49oOO5oB1X-Q1osvziwJRU7mDboBWQ?e=xX5B5R&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 10</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Fri, 08 Apr 2022 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/EUMVOvWpPQdJoFeTOGiztfEBHao8me0DR-kJcI5WGGxafg?e=ksTSEC&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 9</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Thu, 07 Apr 2022 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/EVugdBog9klBrg8IuFgcAUcBQbh4ZXfAbh3ckn8D30NGXQ?e=gdmJXd&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 8</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Fri, 01 Apr 2022 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/Ebo3R_MkcCpEgJfCSuVWFJAByxn_S9SyXfNTymQBwbj2sQ?e=xKhmQu&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 7</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Thu, 31 Mar 2022 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/EZLCUwLKuxJNubC_4MiP7UABHbzgVYXLKqdwd71chJIFuA?e=39hpZQ&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 6</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Fri, 25 Mar 2022 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/EYSz7EwGYv1FpTQ7hewjA30BXXszwUSTFg4llnvKitnicA?e=CyjzeE&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 5</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Thu, 24 Mar 2022 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/EZTT7rsEZTZBpIGQm0hnwTQBbWE5vgG5JF4HiMXuJ1HLUw?e=PnZoeO&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 4</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Fri, 18 Mar 2022 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/EefkpFKEiMZNnBSe8aly1OQBNThm5-Rwd01-ak5pUPA7NQ?e=B6wjQq&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 3</title>
-				<link>http://localhost:4000/ml2223/lezioni/lezione/</link>
-				<pubDate>Thu, 17 Mar 2022 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/:v:/s/GAMBOSI-8066132-MACHINE_LEARNING_1/EYWkAZbp8sdPn5-239vBCU4BqSb6oNYa5bP0ecQ8KwqIvw?e=lFDOH9&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml2223/lezioni/lezione/</guid>
-			</item>
+		<link>http://localhost:4000/ml2425/</link>
+		<atom:link href="http://localhost:4000/ml2425/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
